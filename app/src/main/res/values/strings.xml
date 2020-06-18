@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoFinder</string>
+    <string name="btn_search">Find</string>
+    <string name="img_view_desc">Image</string>
+    <string name="enlarge_view_desc">Large Image</string>
+</resources>
